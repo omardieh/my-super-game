@@ -1,0 +1,12 @@
+h2 {
+  text-align: center;
+  width: fit-content;
+  margin: auto;
+  padding: 1em;
+  border-radius: 14px;
+  -webkit-border-radius: 14px;
+  -moz-border-radius: 14px;
+  -ms-border-radius: 14px;
+  -o-border-radius: 14px;
+  border: 1px solid #ccc;
+}
